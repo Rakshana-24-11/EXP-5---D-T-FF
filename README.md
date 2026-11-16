@@ -108,8 +108,9 @@ endmodule
 ```
 ## Truth Table
 
-<img width="370" height="307" alt="{072C1607-E750-44A1-BD19-D2E3C644E8AC}" src="https://github.com/user-attachments/assets/798e0d6d-10f1-47d8-bd13-6a720e09050e" />
-
+<img width="360" height="144" alt="{5F87A659-1B8F-4C38-ABF6-BBDFAE03999E}" src="https://github.com/user-attachments/assets/13bf17f5-d44d-46c6-8e6f-88335e83c735" />
+<br>
+<img width="358" height="145" alt="{21122E06-11A5-4545-B9F2-307DD001AB46}" src="https://github.com/user-attachments/assets/f6fafc41-27e3-4239-b1b6-6a9f7fbe3554" />
 
 ## Simulation Procedure
 
